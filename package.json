@@ -1,0 +1,8 @@
+{
+  "name": "openshift-learn001",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/niwenhao/openshift-learn001.git",
+  "author": "niwenhao <niwenhao@gmail.com>",
+  "license": "MIT"
+}
